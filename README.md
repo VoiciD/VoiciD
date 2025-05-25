@@ -1,4 +1,9 @@
-## Hi there 👋
+## Servus👋
+
+I'm Daniel and i'm currently a student at the Hochschule Bremen in germany. I'am studying electrical engineering with focus on information technology.
+You can reach me on Discord: voicid
+
+
 
 <!--
 **VoiciD/VoiciD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
