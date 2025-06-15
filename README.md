@@ -1,7 +1,5 @@
 ## Servus👋
-
-I'm Daniel and i'm currently a student at the Hochschule Bremen in germany. I'm studying electrical engineering with focus on information technology.
-You can reach me on Discord: voicid
+I'm Daniel. I am currently studying electrical engineering at the City University of Applied Sciences Bremen. You can reach out to me via Discord ID:voicid
 
 
 
