@@ -1,5 +1,5 @@
 ## Servus👋
-I'm Daniel. I am currently studying electrical engineering at the City University of Applied Sciences Bremen. You can reach out to me via Discord ID:voicid
+I'm Daniel. I am currently studying electrical engineering at the City University of Applied Sciences Bremen. You can reach out to me via Discord ID: voicid
 
 
 
